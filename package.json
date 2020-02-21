@@ -1,0 +1,24 @@
+{
+  "name": "mtg-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonChatelain/MTG-Card-Search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonChatelain/MTG-Card-Search/issues"
+  },
+  "homepage": "https://github.com/DonChatelain/MTG-Card-Search#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
